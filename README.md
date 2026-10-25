@@ -10,3 +10,9 @@ Level select Menu,
 Speedrun Mode,
 
 I finished it in around 10 hours and 30 minutes! 
+ If you do not have a CardputerADV you can use this link 
+ https://velxio.dev/example/cardputer-adv-m5-display
+ by u/LeadingFun1849 on reddit and paste code into it, 
+ it is not as good as the actual cardputerADV tho
+
+ 
